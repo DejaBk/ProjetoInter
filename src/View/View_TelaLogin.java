@@ -114,7 +114,7 @@ public class View_TelaLogin extends javax.swing.JFrame {
                 JOptionPane.showMessageDialog(null, "Login Invalido!");
             }
         } catch (Exception e) {
-            JOptionPane.showMessageDialog(null, "Erro de conexao!");
+            JOptionPane.showMessageDialog(null, "Erro de Conexao!");
         }
         
     }//GEN-LAST:event_buttonEntrarActionPerformed
